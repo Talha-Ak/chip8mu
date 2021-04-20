@@ -17,7 +17,7 @@ void getRom(Chip8& chip8)
 
 int main(int argc, char* argv[])
 {
-	const static double INSTRUCTIONS_PER_SEC = 1;
+	const static double INSTRUCTIONS_PER_SEC = 0.3;
 
 	Renderer renderer{ "Chip8mu", Chip8::DISPLAY_WIDTH, Chip8::DISPLAY_HEIGHT, 10 };
 
