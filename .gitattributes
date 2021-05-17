@@ -1,4 +1,4 @@
-SDL2/ linguist-vendored
+SDL2/** linguist-vendored
 
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
