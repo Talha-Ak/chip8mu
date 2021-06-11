@@ -1,4 +1,4 @@
-# Chip8mu (with SDL)
+# Chip8mu
 
 > A rudimentary implementation of a Chip-8 emulator written in C++.
 
@@ -14,3 +14,5 @@ The actual execution loop and instructions were implemented by myself.
 
 <img src="docs/chip8_1.png" alt="Tetris running on Chip-8" title="Tetris" width="400px">
 <img src="docs/chip8_2.png" alt="Brick breaker running on Chip-8" title="Brick Breaker" width="400px">
+<img src="docs/chip8_3.png" alt="Qt implementation of Chip-8" title="Qt version" width="400px">
+<img src="docs/chip8_4.png" alt="Pong running on Qt Chip-8" title="Pong" width="400px">
